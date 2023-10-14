@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "e0efa1e6b4ae9ced",
+    "type": "split",
+    "children": [
+      {
+        "id": "2427d2845c67ec97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bd00064b35cfcea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Vault/Obsidian Vault/Notas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2fbc403d6f60d33d",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f0453057b5ab991",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b9ee26565e2a03b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e59c82d236c2cbf1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "16231c8ced016d50",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d93209cd9e9ae876",
+    "type": "split",
+    "children": [
+      {
+        "id": "2dc8538746e11008",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08573865ca62f5be",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Obsidian Vault/Obsidian Vault/Notas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dcc46cef784af5b4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Obsidian Vault/Obsidian Vault/Notas.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e62341bdac2c8545",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "78b7112ccb74318e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Obsidian Vault/Obsidian Vault/Notas.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8bd00064b35cfcea",
+  "lastOpenFiles": [
+    "Obsidian Vault/Obsidian Vault/Kernel-based_Virtual_Machine.svg",
+    "Obsidian Vault/Obsidian Vault/Notas.md",
+    "Obsidian Vault/Obsidian Vault/ddb66ir-55d464e8-111c-4d37-8585-76ba891d7aaa.png",
+    "Obsidian Vault/Obsidian Vault/Cloud_computing_types.svg",
+    "Obsidian Vault/Obsidian Vault/Cursos y certificaciones/LinuxFoundationX LFS151.xIntroduction to Cloud Infrastructure Technologies/Chapter 1. Virtualization/KVM.md",
+    "Obsidian Vault/Obsidian Vault/Cursos y certificaciones/LinuxFoundationX LFS151.xIntroduction to Cloud Infrastructure Technologies/Chapter 1. Virtualization/Introduction to Cloud Computing and Technologies.md",
+    "Obsidian Vault/Obsidian Vault/Teoría/Hardware/Modulo.md",
+    "Obsidian Vault/Obsidian Vault/Teoría/Hardware/Arquitecturas.md",
+    "Obsidian Vault/Obsidian Vault/Cursos y certificaciones/LinuxFoundationX LFS151.xIntroduction to Cloud Infrastructure Technologies/Overview.md",
+    "Obsidian Vault/Obsidian Vault/Cursos y certificaciones/LinuxFoundationX LFS151.xIntroduction to Cloud Infrastructure Technologies/Chapter 1. Virtualization",
+    "Obsidian Vault/Obsidian Vault/Comandos/SQL/Basicos.md",
+    "Obsidian Vault/Obsidian Vault/Teoría/Hardware",
+    "Obsidian Vault/Obsidian Vault/Obisidian Markup Cheatsheet/Definitive Obsidian Markdown Cheatsheet.md",
+    "Obsidian Vault/Obsidian Vault/Cursos y certificaciones/LinuxFoundationX LFS151.xIntroduction to Cloud Infrastructure Technologies",
+    "Obsidian Vault/Obsidian Vault/Comandos/SQL",
+    "Obsidian Vault/Obsidian Vault/Teoría",
+    "Obsidian Vault/Obsidian Vault/PFSense",
+    "Obsidian Vault/Obsidian Vault/Obisidian Markup Cheatsheet",
+    "Obsidian Vault/Obsidian Vault/Fortinet",
+    "Obsidian Vault/Obsidian Vault/Cursos y certificaciones",
+    "Obsidian Vault/Obsidian Vault/Comandos",
+    "Obsidian Vault/Cursos y certificaciones/LinuxFoundationX LFS151.xIntroduction to Cloud Infrastructure Technologies/Chapter 1. Virtualization/KVM.md",
+    "Obsidian Vault-20231013T201214Z-001/Obsidian Vault/Cursos y certificaciones/LinuxFoundationX LFS151.xIntroduction to Cloud Infrastructure Technologies/Chapter 1. Virtualization/KVM.md",
+    "Obsidian Vault-20231013T201214Z-001/Obsidian Vault/Cursos y certificaciones/LinuxFoundationX LFS151.xIntroduction to Cloud Infrastructure Technologies/Chapter 1. Virtualization/Introduction to Cloud Computing and Technologies.md",
+    "Obsidian Vault-20231013T201214Z-001/Obsidian Vault/Teoría/Hardware/Modulo.md",
+    "Obsidian Vault-20231013T201214Z-001/Obsidian Vault/Teoría/Hardware/Arquitecturas.md",
+    "Obsidian Vault-20231013T201214Z-001/Obsidian Vault/Cursos y certificaciones/LinuxFoundationX LFS151.xIntroduction to Cloud Infrastructure Technologies/Overview.md",
+    "Obsidian Vault-20231013T201214Z-001/Obsidian Vault/Comandos/SQL/Basicos.md",
+    "Obsidian Vault-20231013T201214Z-001/Obsidian Vault/Obisidian Markup Cheatsheet/Definitive Obsidian Markdown Cheatsheet.md",
+    "Obsidian Vault-20231013T201214Z-001/Obsidian Vault/ddb66ir-55d464e8-111c-4d37-8585-76ba891d7aaa.png",
+    "Obsidian Vault-20231013T201214Z-001/Obsidian Vault/Notas.md",
+    "Obsidian Vault-20231013T201214Z-001/Obsidian Vault/Kernel-based_Virtual_Machine.svg",
+    "Obsidian Vault-20231013T201214Z-001/Obsidian Vault/Cloud_computing_types.svg",
+    "Obsidian Vault/Cloud_computing_types.svg",
+    "Obsidian Vault/ddb66ir-55d464e8-111c-4d37-8585-76ba891d7aaa.png",
+    "Obsidian Vault/Kernel-based_Virtual_Machine.svg",
+    "Obsidian Vault/Teoría/Hardware/Arquitecturas.md",
+    "Obsidian Vault/Cursos y certificaciones/LinuxFoundationX LFS151.xIntroduction to Cloud Infrastructure Technologies/Chapter 1. Virtualization/Introduction to Cloud Computing and Technologies.md"
+  ]
+}

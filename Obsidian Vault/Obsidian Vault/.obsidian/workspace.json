@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "7949ddc3b00c8e1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c18f77ed82f5b9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02cf589c73b7cdbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comandos/SQL/Basicos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82cd2252d55ae9f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4f1aa8c4b8b6c11a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c91b5d22f56dd027",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e51a4eca4620ded9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5d68eb8d4954f9b7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0ead72b8a8171bcd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 344.5
+  },
+  "right": {
+    "id": "b4b8c6d2006e597f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3a44e8c1ff621a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fe963892ef447ee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c1e52b8ebee13245",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notas.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d1fd5888ad2f8a6a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0d6118e9497e8ff1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notas.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "82cd2252d55ae9f5",
+  "lastOpenFiles": [
+    "Comandos/SQL/Basicos.md",
+    "Notas.md",
+    "Cursos y certificaciones/LinuxFoundationX LFS151.xIntroduction to Cloud Infrastructure Technologies/Overview.md",
+    "Cursos y certificaciones/LinuxFoundationX LFS151.xIntroduction to Cloud Infrastructure Technologies/Chapter 1. Virtualization/Introduction to Cloud Computing and Technologies.md",
+    "Cursos y certificaciones/LinuxFoundationX LFS151.xIntroduction to Cloud Infrastructure Technologies/Chapter 1. Virtualization/KVM.md",
+    "Obisidian Markup Cheatsheet/Definitive Obsidian Markdown Cheatsheet.md",
+    "Comandos/SQL",
+    "Comandos",
+    "Cursos y certificaciones/LinuxFoundationX LFS151.xIntroduction to Cloud Infrastructure Technologies/Chapter 1. Virtualization/desktop.ini",
+    "Teoría/Hardware/Modulo.md",
+    "Teoría/Hardware/Arquitecturas.md",
+    "x86.md",
+    "Teoría/Hardware",
+    "Teoría",
+    "Kernel-based_Virtual_Machine.svg",
+    "Cloud_computing_types.svg",
+    "ddb66ir-55d464e8-111c-4d37-8585-76ba891d7aaa.png",
+    "Cursos y certificaciones/LinuxFoundationX LFS151.xIntroduction to Cloud Infrastructure Technologies/Chapter 1. Virtualization",
+    "Cursos y certificaciones",
+    "PFSense",
+    "Fortinet",
+    "Obisidian Markup Cheatsheet",
+    "LinuxFoundationX LFS151.x Introduction to Cloud Infrastructure Technologies.md"
+  ]
+}

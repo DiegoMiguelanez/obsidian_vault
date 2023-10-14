@@ -1,0 +1,5 @@
+En el contexto de sistemas operativos, un "módulo" se refiere a una porción de código que puede ser cargada y descargada dinámicamente en el núcleo del sistema operativo en tiempo de ejecución. Estos módulos permiten agregar funcionalidades al sistema operativo sin tener que reiniciar el sistema completo.
+
+Cuando se dice que "KVM es un módulo de virtualización cargable en el núcleo de Linux", significa que KVM es una parte adicional de código que puede ser incorporada al núcleo de Linux mientras el sistema está en funcionamiento. En este caso, KVM extiende el núcleo para proporcionar capacidades de virtualización a nivel de hardware. Esto permite que el núcleo actúe como un hipervisor, lo que significa que puede gestionar máquinas virtuales invitadas.
+
+La capacidad de cargar y descargar módulos de forma dinámica es una característica importante de muchos sistemas operativos modernos, ya que proporciona flexibilidad y permite a los administradores del sistema añadir o modificar funcionalidades sin tener que detener o reiniciar el sistema.

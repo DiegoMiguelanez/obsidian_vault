@@ -1,0 +1,3 @@
+x64 se refiere específicamente a la extensión de la arquitectura x86 que habilita la operación en sistemas de 64 bits, mientras que x86 puede referirse a sistemas tanto de 32 bits como de 64 bits (dependiendo del contexto y del procesador específico). 
+
+En el contexto de la virtualización, x64 es relevante porque muchos sistemas modernos y aplicaciones están diseñados para aprovechar las capacidades de procesadores de 64 bits.

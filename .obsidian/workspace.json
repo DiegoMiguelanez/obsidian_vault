@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Obsidian Vault/Notas.md",
+                "file": "Obsidian Vault/Obsidian Vault/Fortinet/Comandos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Vault/Obsidian Vault/Notas.md",
+                "file": "Obsidian Vault/Obsidian Vault/Fortinet/Comandos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Vault/Obsidian Vault/Notas.md",
+                "file": "Obsidian Vault/Obsidian Vault/Fortinet/Comandos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Vault/Obsidian Vault/Notas.md"
+                "file": "Obsidian Vault/Obsidian Vault/Fortinet/Comandos.md"
               }
             }
           }
@@ -148,8 +148,11 @@
   },
   "active": "8bd00064b35cfcea",
   "lastOpenFiles": [
-    "Obsidian Vault/Obsidian Vault/Kernel-based_Virtual_Machine.svg",
+    "Obsidian Vault/Obsidian Vault/Comandos/GIT/Basicos.md",
+    "Obsidian Vault/Obsidian Vault/Fortinet/Comandos.md",
     "Obsidian Vault/Obsidian Vault/Notas.md",
+    "Obsidian Vault/Obsidian Vault/Comandos/GIT",
+    "Obsidian Vault/Obsidian Vault/Kernel-based_Virtual_Machine.svg",
     "Obsidian Vault/Obsidian Vault/ddb66ir-55d464e8-111c-4d37-8585-76ba891d7aaa.png",
     "Obsidian Vault/Obsidian Vault/Cloud_computing_types.svg",
     "Obsidian Vault/Obsidian Vault/Cursos y certificaciones/LinuxFoundationX LFS151.xIntroduction to Cloud Infrastructure Technologies/Chapter 1. Virtualization/KVM.md",
@@ -168,7 +171,6 @@
     "Obsidian Vault/Obsidian Vault/Obisidian Markup Cheatsheet",
     "Obsidian Vault/Obsidian Vault/Fortinet",
     "Obsidian Vault/Obsidian Vault/Cursos y certificaciones",
-    "Obsidian Vault/Obsidian Vault/Comandos",
     "Obsidian Vault/Cursos y certificaciones/LinuxFoundationX LFS151.xIntroduction to Cloud Infrastructure Technologies/Chapter 1. Virtualization/KVM.md",
     "Obsidian Vault-20231013T201214Z-001/Obsidian Vault/Cursos y certificaciones/LinuxFoundationX LFS151.xIntroduction to Cloud Infrastructure Technologies/Chapter 1. Virtualization/KVM.md",
     "Obsidian Vault-20231013T201214Z-001/Obsidian Vault/Cursos y certificaciones/LinuxFoundationX LFS151.xIntroduction to Cloud Infrastructure Technologies/Chapter 1. Virtualization/Introduction to Cloud Computing and Technologies.md",

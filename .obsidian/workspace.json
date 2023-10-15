@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Obsidian Vault/Fortinet/Comandos.md",
+                "file": "Obsidian Vault/Obsidian Vault/Comandos/GIT/Basicos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Vault/Obsidian Vault/Fortinet/Comandos.md",
+                "file": "Obsidian Vault/Obsidian Vault/Comandos/GIT/Basicos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Vault/Obsidian Vault/Fortinet/Comandos.md",
+                "file": "Obsidian Vault/Obsidian Vault/Comandos/GIT/Basicos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Vault/Obsidian Vault/Fortinet/Comandos.md"
+                "file": "Obsidian Vault/Obsidian Vault/Comandos/GIT/Basicos.md"
               }
             }
           }
@@ -148,29 +148,39 @@
   },
   "active": "8bd00064b35cfcea",
   "lastOpenFiles": [
-    "Obsidian Vault/Obsidian Vault/Comandos/GIT/Basicos.md",
-    "Obsidian Vault/Obsidian Vault/Fortinet/Comandos.md",
+    "Obsidian Vault/Obsidian Vault/Cursos y certificaciones/LinuxFoundationX LFS151.xIntroduction to Cloud Infrastructure Technologies/Chapter 2. Infrastructure as a Service (IaaS)/Amazon EC2.md",
+    "43127e6e-9bee-44b3-b7ed-959d29fa2846-mp4_720p.mp4",
+    "Pasted image 20231015023555.png",
+    "Obsidian Vault/Obsidian Vault/Comandos/Vagrant/Script Basico.md",
+    "Obsidian Vault/Obsidian Vault/Cursos y certificaciones/LinuxFoundationX LFS151.xIntroduction to Cloud Infrastructure Technologies/Chapter 2. Infrastructure as a Service (IaaS)",
+    "Obsidian Vault/Obsidian Vault/Comandos/Vagrant/Vagrant.md",
+    "Obsidian Vault/Obsidian Vault/Comandos/Vagrant",
+    "Obsidian Vault/Obsidian Vault/Cursos y certificaciones/LinuxFoundationX LFS151.xIntroduction to Cloud Infrastructure Technologies/Chapter 1. Virtualization/Vagrant.md",
+    "Obsidian Vault/Obsidian Vault/Cursos y certificaciones/LinuxFoundationX LFS151.xIntroduction to Cloud Infrastructure Technologies/Overview.md",
+    "Obsidian Vault/Obsidian Vault/Comandos/Fortigate/Basicos.md",
+    "Obsidian Vault/Obsidian Vault/Teoría/Networking/Calcular rango IP.md",
+    "Pasted image 20231014221615.png",
+    "Obsidian Vault/Obsidian Vault/Teoría/Networking",
     "Obsidian Vault/Obsidian Vault/Notas.md",
-    "Obsidian Vault/Obsidian Vault/Comandos/GIT",
     "Obsidian Vault/Obsidian Vault/Kernel-based_Virtual_Machine.svg",
     "Obsidian Vault/Obsidian Vault/ddb66ir-55d464e8-111c-4d37-8585-76ba891d7aaa.png",
     "Obsidian Vault/Obsidian Vault/Cloud_computing_types.svg",
+    "Obsidian Vault/Obsidian Vault/Obisidian Markup Cheatsheet/Definitive Obsidian Markdown Cheatsheet.md",
+    "Obsidian Vault/Obsidian Vault/Fortinet/Network/Interfaces.md",
+    "Obsidian Vault/Obsidian Vault/Comandos/SQL/Basicos.md",
+    "Obsidian Vault/Obsidian Vault/PFSense/Interfaces.md",
+    "Obsidian Vault/Obsidian Vault/Teoría/Hardware/Arquitecturas.md",
+    "Obsidian Vault/Obsidian Vault/Untitled",
+    "Obsidian Vault/Obsidian Vault/Fortinet/Network",
+    "Pasted image 20231014110944.png",
+    "Obsidian Vault/Obsidian Vault/Comandos/GIT/Basicos.md",
+    "Obsidian Vault/Obsidian Vault/Comandos/Fortigate",
+    "Obsidian Vault/Obsidian Vault/Comandos/GIT",
     "Obsidian Vault/Obsidian Vault/Cursos y certificaciones/LinuxFoundationX LFS151.xIntroduction to Cloud Infrastructure Technologies/Chapter 1. Virtualization/KVM.md",
     "Obsidian Vault/Obsidian Vault/Cursos y certificaciones/LinuxFoundationX LFS151.xIntroduction to Cloud Infrastructure Technologies/Chapter 1. Virtualization/Introduction to Cloud Computing and Technologies.md",
     "Obsidian Vault/Obsidian Vault/Teoría/Hardware/Modulo.md",
-    "Obsidian Vault/Obsidian Vault/Teoría/Hardware/Arquitecturas.md",
-    "Obsidian Vault/Obsidian Vault/Cursos y certificaciones/LinuxFoundationX LFS151.xIntroduction to Cloud Infrastructure Technologies/Overview.md",
     "Obsidian Vault/Obsidian Vault/Cursos y certificaciones/LinuxFoundationX LFS151.xIntroduction to Cloud Infrastructure Technologies/Chapter 1. Virtualization",
-    "Obsidian Vault/Obsidian Vault/Comandos/SQL/Basicos.md",
     "Obsidian Vault/Obsidian Vault/Teoría/Hardware",
-    "Obsidian Vault/Obsidian Vault/Obisidian Markup Cheatsheet/Definitive Obsidian Markdown Cheatsheet.md",
-    "Obsidian Vault/Obsidian Vault/Cursos y certificaciones/LinuxFoundationX LFS151.xIntroduction to Cloud Infrastructure Technologies",
-    "Obsidian Vault/Obsidian Vault/Comandos/SQL",
-    "Obsidian Vault/Obsidian Vault/Teoría",
-    "Obsidian Vault/Obsidian Vault/PFSense",
-    "Obsidian Vault/Obsidian Vault/Obisidian Markup Cheatsheet",
-    "Obsidian Vault/Obsidian Vault/Fortinet",
-    "Obsidian Vault/Obsidian Vault/Cursos y certificaciones",
     "Obsidian Vault/Cursos y certificaciones/LinuxFoundationX LFS151.xIntroduction to Cloud Infrastructure Technologies/Chapter 1. Virtualization/KVM.md",
     "Obsidian Vault-20231013T201214Z-001/Obsidian Vault/Cursos y certificaciones/LinuxFoundationX LFS151.xIntroduction to Cloud Infrastructure Technologies/Chapter 1. Virtualization/KVM.md",
     "Obsidian Vault-20231013T201214Z-001/Obsidian Vault/Cursos y certificaciones/LinuxFoundationX LFS151.xIntroduction to Cloud Infrastructure Technologies/Chapter 1. Virtualization/Introduction to Cloud Computing and Technologies.md",
@@ -180,13 +190,8 @@
     "Obsidian Vault-20231013T201214Z-001/Obsidian Vault/Comandos/SQL/Basicos.md",
     "Obsidian Vault-20231013T201214Z-001/Obsidian Vault/Obisidian Markup Cheatsheet/Definitive Obsidian Markdown Cheatsheet.md",
     "Obsidian Vault-20231013T201214Z-001/Obsidian Vault/ddb66ir-55d464e8-111c-4d37-8585-76ba891d7aaa.png",
-    "Obsidian Vault-20231013T201214Z-001/Obsidian Vault/Notas.md",
     "Obsidian Vault-20231013T201214Z-001/Obsidian Vault/Kernel-based_Virtual_Machine.svg",
     "Obsidian Vault-20231013T201214Z-001/Obsidian Vault/Cloud_computing_types.svg",
-    "Obsidian Vault/Cloud_computing_types.svg",
-    "Obsidian Vault/ddb66ir-55d464e8-111c-4d37-8585-76ba891d7aaa.png",
-    "Obsidian Vault/Kernel-based_Virtual_Machine.svg",
-    "Obsidian Vault/Teoría/Hardware/Arquitecturas.md",
-    "Obsidian Vault/Cursos y certificaciones/LinuxFoundationX LFS151.xIntroduction to Cloud Infrastructure Technologies/Chapter 1. Virtualization/Introduction to Cloud Computing and Technologies.md"
+    "Obsidian Vault/Cloud_computing_types.svg"
   ]
 }

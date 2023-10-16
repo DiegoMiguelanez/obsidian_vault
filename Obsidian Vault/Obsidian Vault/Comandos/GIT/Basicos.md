@@ -1,13 +1,24 @@
 <h2>1. Crear y conectar nuevo repositorio</h2>
 ``git init``
 
-``git remote add origin https://github.com/DiegoMiguelanez/obsidian_vault.git
-`
-``git add .
-``
-``git commit -m "Primer commit"``
+```
+git remote add origin https://github.com/DiegoMiguelanez/obsidian_vault.git
+```
 
-``git push -u origin main``
+```
+git add .
+```
+
+
+```
+git commit -m "Primer commit"
+```
+
+
+```
+git push -u origin main
+```
+
 
 miguelanez.diego@gmail.com
 token_en_keepass2
